@@ -1,5 +1,13 @@
 # Changelog
 
+## [11.14.2](https://github.com/folke/lazy.nvim/compare/v11.14.1...v11.14.2) (2024-08-31)
+
+
+### Bug Fixes
+
+* **luarocks:** try to install from root manifest ([#1687](https://github.com/folke/lazy.nvim/issues/1687)) ([591ef40](https://github.com/folke/lazy.nvim/commit/591ef40f2da3a26fbcc0466988cd6fe45ca68cae))
+* **rocks:** add lib64 plugin directory to package.cpath ([#1717](https://github.com/folke/lazy.nvim/issues/1717)) ([80da254](https://github.com/folke/lazy.nvim/commit/80da254e645f579c28394ee0f08f75a9c9481744))
+
 ## [11.14.1](https://github.com/folke/lazy.nvim/compare/v11.14.0...v11.14.1) (2024-07-25)
 
 
